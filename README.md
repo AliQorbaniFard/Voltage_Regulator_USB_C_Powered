@@ -1,5 +1,5 @@
 # 🔧 Voltage Regulator PCB Design - USB-C Powered - LF33 - Altium Designer Project
-![Thn](https://github.com/user-attachments/assets/2f5f7f9e-a4ad-434f-883b-2191f7b0e009)
+![Thn](https://github.com/user-attachments/assets/51dae632-f5cd-4f70-aca2-2c7c456f4f26)
 
 
 📍 **Designed in Altium Designer** | 🎥 **Explained on [Sly Fox Electronics](https://www.youtube.com/@SlyFoxElectronics)**  
@@ -23,7 +23,7 @@ The video covers every step in detail:
 
 1. **Circuit Explanation** – Understand how the Voltage Regulator works and interacts with other components.
 2. **Schematic Design** – Draw the full schematic from scratch.
-3. **Component Selection ** – get familiar with proper components for this project
+3. **Component Selection** – get familiar with proper components for this project
 4. **PCB Layout & Routing** – Arrange components, route wires, and optimize the design.
 5. **USB-C** – see how to power your PCB with USB-C.
 
@@ -46,6 +46,9 @@ By following this project, you’ll learn:
 - Altium Designer (tested with version 20 and above)
 - Basic electronics knowledge
 - Curiosity and passion for learning 🧠✨
+- LF33
+- USB-C
+- Soldering Skill
 
 ---
 
