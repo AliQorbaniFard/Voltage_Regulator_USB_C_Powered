@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=+3v3 Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=VoltageRegulator Member=Component C? 100 nF
+Added Member To Class: ClassName=VoltageRegulator Member=Component J? USB4125-GF-A-0190
+Added Member To Class: ClassName=VoltageRegulator Member=Component J? 1729128
+Added Member To Class: ClassName=VoltageRegulator Member=Component R? 5.1K ohm
