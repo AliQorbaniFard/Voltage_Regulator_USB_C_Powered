@@ -21,22 +21,11 @@ Whether you're a beginner trying to learn PCB design or someone looking to expan
 
 The video covers every step in detail:
 
-1. **Circuit Explanation** – Understand how the IR sensor works and interacts with other components.
+1. **Circuit Explanation** – Understand how the Voltage Regulator works and interacts with other components.
 2. **Schematic Design** – Draw the full schematic from scratch.
-3. **Custom Footprint Creation** – Learn to build non-standard footprints (e.g. IR receiver module).
-4. **PCB Layout & Routing** – Arrange components, route signals, and optimize the design.
-5. **Gerber & NC Drill Export** – Generate production-ready files to send to a PCB manufacturer.
-
----
-
-
-## 📦 Output Files
-
-You can directly send the files from the **OutputFiles/** folder to your preferred PCB manufacturer.
-
-✔️ Gerber Files  
-✔️ NC Drill File  
-✔️ Assembly Drawing (Optional)
+3. **Component Selection ** – get familiar with proper components for this project
+4. **PCB Layout & Routing** – Arrange components, route wires, and optimize the design.
+5. **USB-C** – see how to power your PCB with USB-C.
 
 ---
 
@@ -44,9 +33,9 @@ You can directly send the files from the **OutputFiles/** folder to your preferr
 
 By following this project, you’ll learn:
 
-- How IR sensor modules work
+- How Voltage Regulator works
 - Schematic design techniques in Altium
-- Creating accurate custom footprints
+- adding USB-C to your PCB projects
 - PCB design best practices (e.g. trace width, clearances)
 - How to prepare your board for fabrication
 
